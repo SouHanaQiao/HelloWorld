@@ -21,7 +21,7 @@
 
 - (void)createUI
 {
-    
+    NSLog(@"123");
 }
 
 - (void)didReceiveMemoryWarning {

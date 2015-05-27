@@ -1,0 +1,8 @@
+platform :ios, '8.3'
+pod 'IQKeyboardManager', '~> 3.2.3'
+pod 'ReactiveCocoa'
+pod 'pop', '~> 1.0.7'
+pod 'JazzHands', '~> 0.2.1'
+pod 'YSMAutoScrollView.podspec', '~> 1.0.0'
+pod 'RestKit/ObjectMapping', '~> 0.23.3'
+pod 'AFNetworking', '~> 2.5'
